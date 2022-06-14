@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edher de Carvalho Masetto</h1>
 <h3 align="center">Backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [leilaoOnline](https://github.com/emasetto/LeilaoOnline)
-
 - 🌱 I’m currently learning **React Native, JavaScript**
 
 - 💬 Ask me about **html, css, python, sqlserver, kotlin, android studio**
